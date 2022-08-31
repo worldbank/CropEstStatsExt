@@ -1,0 +1,11 @@
+version: '3'
+services:
+  ee_geemap_giswq:
+    container_name: ee_geemap_bkavlak
+    command: tail -F anything
+    build: .
+    ports:
+      - 8888:8888
+      - 6006:6006
+    volumes:
+      - ./../../app/:/geemap/data/

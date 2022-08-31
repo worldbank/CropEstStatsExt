@@ -1,0 +1,402 @@
+[
+    {
+        "id": "0",
+        "period": "2021",
+        "subregion": "Kanifing",
+        "area_sqm": 24451,
+        "croplands_min": 0.1662,
+        "croplands_mean": 0.1684,
+        "croplands_max": 0.1758,
+        "croplands_stddev": 0.0048
+    },
+    {
+        "id": "1",
+        "period": "2021",
+        "subregion": "Kerewan",
+        "area_sqm": 32885319,
+        "croplands_min": 0.1458,
+        "croplands_mean": 0.2647,
+        "croplands_max": 0.438,
+        "croplands_stddev": 0.0285
+    },
+    {
+        "id": "2",
+        "period": "2021",
+        "subregion": "Banjul",
+        "area_sqm": 0,
+        "croplands_min": -999,
+        "croplands_mean": -999,
+        "croplands_max": -999,
+        "croplands_stddev": -999
+    },
+    {
+        "id": "3",
+        "period": "2021",
+        "subregion": "Kanifing",
+        "area_sqm": 264621,
+        "croplands_min": 0.1102,
+        "croplands_mean": 0.1851,
+        "croplands_max": 0.2804,
+        "croplands_stddev": 0.0549
+    },
+    {
+        "id": "4",
+        "period": "2021",
+        "subregion": "Brikama",
+        "area_sqm": 141767248,
+        "croplands_min": 0.1178,
+        "croplands_mean": 0.2727,
+        "croplands_max": 0.4661,
+        "croplands_stddev": 0.0423
+    },
+    {
+        "id": "5",
+        "period": "2021",
+        "subregion": "Kerewan",
+        "area_sqm": 1031546,
+        "croplands_min": 0.1555,
+        "croplands_mean": 0.2518,
+        "croplands_max": 0.3823,
+        "croplands_stddev": 0.036
+    },
+    {
+        "id": "6",
+        "period": "2021",
+        "subregion": "Brikama",
+        "area_sqm": 88338,
+        "croplands_min": 0.1775,
+        "croplands_mean": 0.2241,
+        "croplands_max": 0.2422,
+        "croplands_stddev": 0.0205
+    },
+    {
+        "id": "7",
+        "period": "2021",
+        "subregion": "Kerewan",
+        "area_sqm": 368862389,
+        "croplands_min": 0.1594,
+        "croplands_mean": 0.255,
+        "croplands_max": 0.4465,
+        "croplands_stddev": 0.0306
+    },
+    {
+        "id": "8",
+        "period": "2021",
+        "subregion": "Brikama",
+        "area_sqm": 32473124,
+        "croplands_min": 0.1554,
+        "croplands_mean": 0.267,
+        "croplands_max": 0.4346,
+        "croplands_stddev": 0.0426
+    },
+    {
+        "id": "9",
+        "period": "2021",
+        "subregion": "Kerewan",
+        "area_sqm": 113230301,
+        "croplands_min": 0.1507,
+        "croplands_mean": 0.2577,
+        "croplands_max": 0.462,
+        "croplands_stddev": 0.0337
+    },
+    {
+        "id": "10",
+        "period": "2021",
+        "subregion": "Mansa Konko",
+        "area_sqm": 1386577,
+        "croplands_min": 0.1898,
+        "croplands_mean": 0.2597,
+        "croplands_max": 0.3097,
+        "croplands_stddev": 0.0219
+    },
+    {
+        "id": "11",
+        "period": "2021",
+        "subregion": "Kerewan",
+        "area_sqm": 246939171,
+        "croplands_min": 0.0976,
+        "croplands_mean": 0.2421,
+        "croplands_max": 0.4504,
+        "croplands_stddev": 0.0266
+    },
+    {
+        "id": "12",
+        "period": "2021",
+        "subregion": "Brikama",
+        "area_sqm": 26154870,
+        "croplands_min": 0.1075,
+        "croplands_mean": 0.2194,
+        "croplands_max": 0.331,
+        "croplands_stddev": 0.0247
+    },
+    {
+        "id": "13",
+        "period": "2021",
+        "subregion": "Kerewan",
+        "area_sqm": 202600,
+        "croplands_min": 0.2048,
+        "croplands_mean": 0.2403,
+        "croplands_max": 0.2634,
+        "croplands_stddev": 0.0145
+    },
+    {
+        "id": "14",
+        "period": "2021",
+        "subregion": "Mansa Konko",
+        "area_sqm": 11427545,
+        "croplands_min": 0.0999,
+        "croplands_mean": 0.2093,
+        "croplands_max": 0.3214,
+        "croplands_stddev": 0.0257
+    },
+    {
+        "id": "15",
+        "period": "2021",
+        "subregion": "Kerewan",
+        "area_sqm": 173500117,
+        "croplands_min": 0.114,
+        "croplands_mean": 0.2196,
+        "croplands_max": 0.3517,
+        "croplands_stddev": 0.0346
+    },
+    {
+        "id": "16",
+        "period": "2021",
+        "subregion": "Kuntaur",
+        "area_sqm": 50687503,
+        "croplands_min": 0.1494,
+        "croplands_mean": 0.2625,
+        "croplands_max": 0.4005,
+        "croplands_stddev": 0.0311
+    },
+    {
+        "id": "17",
+        "period": "2021",
+        "subregion": "Mansa Konko",
+        "area_sqm": 400816,
+        "croplands_min": 0.1615,
+        "croplands_mean": 0.2203,
+        "croplands_max": 0.2775,
+        "croplands_stddev": 0.0253
+    },
+    {
+        "id": "18",
+        "period": "2021",
+        "subregion": "Kerewan",
+        "area_sqm": 6986,
+        "croplands_min": 0.2507,
+        "croplands_mean": 0.2437,
+        "croplands_max": 0.2551,
+        "croplands_stddev": 0.0022
+    },
+    {
+        "id": "19",
+        "period": "2021",
+        "subregion": "Mansa Konko",
+        "area_sqm": 41252583,
+        "croplands_min": 0.1412,
+        "croplands_mean": 0.2126,
+        "croplands_max": 0.293,
+        "croplands_stddev": 0.0218
+    },
+    {
+        "id": "20",
+        "period": "2021",
+        "subregion": "Janjanbureh",
+        "area_sqm": 209706741,
+        "croplands_min": 0.1454,
+        "croplands_mean": 0.2351,
+        "croplands_max": 0.3743,
+        "croplands_stddev": 0.0284
+    },
+    {
+        "id": "21",
+        "period": "2021",
+        "subregion": "Kerewan",
+        "area_sqm": 799897,
+        "croplands_min": 0.1798,
+        "croplands_mean": 0.2574,
+        "croplands_max": 0.3054,
+        "croplands_stddev": 0.0196
+    },
+    {
+        "id": "22",
+        "period": "2021",
+        "subregion": "Kuntaur",
+        "area_sqm": 218778479,
+        "croplands_min": 0.1111,
+        "croplands_mean": 0.2616,
+        "croplands_max": 0.3936,
+        "croplands_stddev": 0.0306
+    },
+    {
+        "id": "23",
+        "period": "2021",
+        "subregion": "Mansa Konko",
+        "area_sqm": 11766494,
+        "croplands_min": 0.1548,
+        "croplands_mean": 0.2242,
+        "croplands_max": 0.3102,
+        "croplands_stddev": 0.0242
+    },
+    {
+        "id": "24",
+        "period": "2021",
+        "subregion": "Kerewan",
+        "area_sqm": 239277,
+        "croplands_min": 0.1712,
+        "croplands_mean": 0.2357,
+        "croplands_max": 0.2671,
+        "croplands_stddev": 0.0266
+    },
+    {
+        "id": "25",
+        "period": "2021",
+        "subregion": "Mansa Konko",
+        "area_sqm": 21031632,
+        "croplands_min": 0.1771,
+        "croplands_mean": 0.2442,
+        "croplands_max": 0.3228,
+        "croplands_stddev": 0.0237
+    },
+    {
+        "id": "26",
+        "period": "2021",
+        "subregion": "Janjanbureh",
+        "area_sqm": 149767720,
+        "croplands_min": 0.139,
+        "croplands_mean": 0.2357,
+        "croplands_max": 0.3462,
+        "croplands_stddev": 0.0244
+    },
+    {
+        "id": "27",
+        "period": "2021",
+        "subregion": "Kuntaur",
+        "area_sqm": 224475517,
+        "croplands_min": 0.1609,
+        "croplands_mean": 0.2298,
+        "croplands_max": 0.3379,
+        "croplands_stddev": 0.0239
+    },
+    {
+        "id": "28",
+        "period": "2021",
+        "subregion": "Janjanbureh",
+        "area_sqm": 134740043,
+        "croplands_min": 0.1422,
+        "croplands_mean": 0.2156,
+        "croplands_max": 0.3477,
+        "croplands_stddev": 0.0235
+    },
+    {
+        "id": "29",
+        "period": "2021",
+        "subregion": "Kuntaur",
+        "area_sqm": 124882,
+        "croplands_min": 0.2095,
+        "croplands_mean": 0.2394,
+        "croplands_max": 0.2764,
+        "croplands_stddev": 0.0214
+    },
+    {
+        "id": "30",
+        "period": "2021",
+        "subregion": "Basse",
+        "area_sqm": 6739394,
+        "croplands_min": 0.1937,
+        "croplands_mean": 0.2546,
+        "croplands_max": 0.3389,
+        "croplands_stddev": 0.0234
+    },
+    {
+        "id": "31",
+        "period": "2021",
+        "subregion": "Janjanbureh",
+        "area_sqm": 10801418,
+        "croplands_min": 0.1911,
+        "croplands_mean": 0.2439,
+        "croplands_max": 0.3169,
+        "croplands_stddev": 0.0226
+    },
+    {
+        "id": "32",
+        "period": "2021",
+        "subregion": "Kuntaur",
+        "area_sqm": 137562384,
+        "croplands_min": 0.1222,
+        "croplands_mean": 0.2428,
+        "croplands_max": 0.3249,
+        "croplands_stddev": 0.0208
+    },
+    {
+        "id": "33",
+        "period": "2021",
+        "subregion": "Basse",
+        "area_sqm": 200956505,
+        "croplands_min": 0.1357,
+        "croplands_mean": 0.2387,
+        "croplands_max": 0.3953,
+        "croplands_stddev": 0.0326
+    },
+    {
+        "id": "34",
+        "period": "2021",
+        "subregion": "Janjanbureh",
+        "area_sqm": 91616658,
+        "croplands_min": 0.1695,
+        "croplands_mean": 0.2385,
+        "croplands_max": 0.3314,
+        "croplands_stddev": 0.0219
+    },
+    {
+        "id": "35",
+        "period": "2021",
+        "subregion": "Kuntaur",
+        "area_sqm": 3375399,
+        "croplands_min": 0.1954,
+        "croplands_mean": 0.2581,
+        "croplands_max": 0.3376,
+        "croplands_stddev": 0.0239
+    },
+    {
+        "id": "36",
+        "period": "2021",
+        "subregion": "Basse",
+        "area_sqm": 111917452,
+        "croplands_min": 0.1579,
+        "croplands_mean": 0.2434,
+        "croplands_max": 0.3663,
+        "croplands_stddev": 0.0296
+    },
+    {
+        "id": "37",
+        "period": "2021",
+        "subregion": "Basse",
+        "area_sqm": 390969520,
+        "croplands_min": 0.139,
+        "croplands_mean": 0.235,
+        "croplands_max": 0.4663,
+        "croplands_stddev": 0.0325
+    },
+    {
+        "id": "38",
+        "period": "2021",
+        "subregion": "Basse",
+        "area_sqm": 25414513,
+        "croplands_min": 0.1687,
+        "croplands_mean": 0.2456,
+        "croplands_max": 0.3322,
+        "croplands_stddev": 0.0249
+    },
+    {
+        "id": "39",
+        "period": "2021",
+        "subregion": "Basse",
+        "area_sqm": 84338971,
+        "croplands_min": 0.1584,
+        "croplands_mean": 0.2616,
+        "croplands_max": 0.3911,
+        "croplands_stddev": 0.0345
+    }
+]
